@@ -1,0 +1,155 @@
+{
+  "homepage": {
+    "hero_heading": "Spaces That Elevate Your Vision",
+    "hero_subtext": "Althujoori offers a curated portfolio of premium commercial spaces, office suites, and private villas — crafted to meet every professional and residential aspiration.",
+    "hero_btn1": "View Properties →",
+    "hero_btn2": "Contact Us",
+    "stat1_num": "120+",
+    "stat1_lbl": "Properties",
+    "stat2_num": "15+",
+    "stat2_lbl": "Years Active",
+    "stat3_num": "400+",
+    "stat3_lbl": "Happy Clients",
+    "cta_heading": "Ready to Find Your Perfect Space?",
+    "cta_subtext": "Browse our full portfolio or speak directly with our leasing team for a personalised tour.",
+    "newsletter_heading": "Get New Properties Delivered to Your Inbox"
+  },
+  "contact": {
+    "phone": "+974 1234 5678",
+    "email": "info@althujoori.qa",
+    "address": "Salwa Road, Doha, Qatar",
+    "whatsapp": "97412345678",
+    "hours": [
+      {
+        "days": "Saturday - Thursday",
+        "time": "8:00 AM - 8:00 PM",
+        "closed": false
+      },
+      {
+        "days": "Friday",
+        "time": "",
+        "closed": true
+      }
+    ],
+    "faq": []
+  },
+  "about": {
+    "chairman_name": "Abdul Hadi Al Sulaiman",
+    "chairman_role": "Chairman & Founder",
+    "chairman_quote": "Qatar's ambitions are great, and the spaces in which people live and work must reflect that greatness.",
+    "chairman_para1": "When I founded Althujoori Real Estate and Trading Co. in 2009, I had a singular vision: to create a company that would not merely facilitate transactions, but build lasting relationships.",
+    "chairman_para2": "Over 15 years, we have grown from a small office in Doha to a portfolio spanning over 120 properties across the country.",
+    "mission": "To provide businesses and families across Qatar with premium, well-managed properties delivered with transparency, care, and an unwavering commitment to long-term relationships.",
+    "vision": "To be recognised across Qatar as the most trusted, client-centred real estate company.",
+    "stat1_num": "15+",
+    "stat1_lbl": "Years in Qatar",
+    "stat2_num": "120+",
+    "stat2_lbl": "Properties Managed",
+    "stat3_num": "400+",
+    "stat3_lbl": "Satisfied Clients",
+    "stat4_num": "70%",
+    "stat4_lbl": "Tenant Renewal Rate"
+  },
+  "settings": {
+    "company_name": "Althujoori",
+    "tagline": "Real Estate & Trading Co.",
+    "footer_desc": "A trusted name in Qatar's real estate market, offering premium commercial and residential rental properties across Doha and beyond.",
+    "copyright": "© 2025 Althujoori Real Estate & Trading Co. All rights reserved.",
+    "facebook": "",
+    "instagram": "",
+    "linkedin": "",
+    "twitter": ""
+  },
+  "properties": [
+    {
+      "id": "p1",
+      "name": "Prestige Business Centre",
+      "type": "Office Space",
+      "location": "West Bay, Doha",
+      "price": "22,000",
+      "size": "450",
+      "rooms": "6 Offices",
+      "parking": "4",
+      "status": "Vacant",
+      "visible": true,
+      "featured": true,
+      "description": "Premium office environment in the heart of West Bay spanning 450 sq. metres across the 14th floor of Tower C with panoramic city and sea views.",
+      "image": ""
+    },
+    {
+      "id": "p2",
+      "name": "Al Rayyan Garden Villa",
+      "type": "Accommodation Villa",
+      "location": "Al Rayyan",
+      "price": "35,000",
+      "size": "680",
+      "rooms": "5 Bedrooms",
+      "parking": "2",
+      "status": "Vacant",
+      "visible": true,
+      "featured": true,
+      "description": "Spacious garden villa in Al Rayyan offering 5 bedrooms, private garden, and 2 covered parking spaces.",
+      "image": ""
+    },
+    {
+      "id": "p3",
+      "name": "Industrial Park Unit 7",
+      "type": "Commercial Unit",
+      "location": "Industrial Area",
+      "price": "18,500",
+      "size": "1200",
+      "rooms": "Open Plan",
+      "parking": "8",
+      "status": "Vacant",
+      "visible": true,
+      "featured": false,
+      "description": "Large commercial unit with loading bays and open-plan warehouse space suitable for light industrial or logistics use.",
+      "image": ""
+    },
+    {
+      "id": "p4",
+      "name": "Pearl Business Hub",
+      "type": "Office Space",
+      "location": "The Pearl, Doha",
+      "price": "16,000",
+      "size": "280",
+      "rooms": "4 Offices",
+      "parking": "2",
+      "status": "Vacant",
+      "visible": true,
+      "featured": false,
+      "description": "Modern office suite in The Pearl-Qatar offering 4 private offices, a reception area, and stunning marina views.",
+      "image": ""
+    },
+    {
+      "id": "p5",
+      "name": "Lusail Waterfront Villa",
+      "type": "Accommodation Villa",
+      "location": "Lusail City",
+      "price": "52,000",
+      "size": "920",
+      "rooms": "6 Bedrooms",
+      "parking": "3",
+      "status": "Vacant",
+      "visible": true,
+      "featured": false,
+      "description": "Luxury waterfront villa in Lusail with private pool, landscaped garden, and 3 covered parking bays.",
+      "image": ""
+    },
+    {
+      "id": "p6",
+      "name": "Msheireb Retail Corner",
+      "type": "Commercial Unit",
+      "location": "Msheireb, Doha",
+      "price": "12,500",
+      "size": "160",
+      "rooms": "Ground Retail",
+      "parking": "2",
+      "status": "Rented",
+      "visible": true,
+      "featured": false,
+      "description": "Prime ground-floor retail space in the heart of Msheireb — high footfall, modern fit-out, fully air-conditioned.",
+      "image": ""
+    }
+  ]
+}
