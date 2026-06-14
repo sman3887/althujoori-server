@@ -1,0 +1,181 @@
+{
+  "contact": {
+    "phone": "+974 XXXX XXXX",
+    "email": "info@althujoori.qa",
+    "whatsapp": "97400000000",
+    "address": "Doha",
+    "hours": [],
+    "faq": []
+  },
+  "homepage": {
+    "stat1_num": "120+",
+    "stat1_lbl": "Properties",
+    "stat2_num": "15+",
+    "stat2_lbl": "Years Active",
+    "stat3_num": "400+",
+    "stat3_lbl": "Happy Clients",
+    "hero_subtext": "Althujoori offers a curated portfolio of premium commercial spaces, office suites, and private villas — crafted to meet every professional and residential aspiration.",
+    "cta_heading": "Ready to Find Your Perfect Space?",
+    "cta_subtext": "Browse our full portfolio or speak directly with our leasing team for a personalised tour."
+  },
+  "about": {
+    "chairman_quote": "NEW quote",
+    "mission": "NEW mission",
+    "vision": "NEW vision",
+    "stat1_num": "20+",
+    "stat1_lbl": "Years"
+  },
+  "settings": {
+    "company_name": "Althujoori",
+    "footer_desc": "NEW footer",
+    "tagline": "NEW tagline",
+    "facebook": "https://fb.com/test",
+    "copyright": "NEW copyright"
+  },
+  "properties": [
+    {
+      "id": "p1",
+      "name": "Prestige Business Centre",
+      "type": "Office Space",
+      "location": "West Bay, Doha",
+      "price": "22,000",
+      "size": "450",
+      "rooms": "6 Offices",
+      "parking": "4",
+      "status": "Vacant",
+      "visible": true,
+      "featured": true,
+      "description": "Premium office in West Bay with panoramic views.",
+      "image": "",
+      "features": [
+        "High-Speed Fibre Internet",
+        "Reception & Waiting Area",
+        "Central Air Conditioning",
+        "24/7 Security & Access",
+        "Reserved Parking",
+        "Move-in Ready"
+      ],
+      "full_address": "Tower C, West Bay Business District, Doha, Qatar"
+    },
+    {
+      "id": "p2",
+      "name": "Al Rayyan Garden Villa",
+      "type": "Accommodation Villa",
+      "location": "Al Rayyan",
+      "price": "35,000",
+      "size": "680",
+      "rooms": "5 Bedrooms",
+      "parking": "2",
+      "status": "Vacant",
+      "visible": true,
+      "featured": true,
+      "description": "Spacious garden villa with private garden.",
+      "image": "",
+      "features": [
+        "Private Garden",
+        "Covered Parking",
+        "Central Air Conditioning",
+        "24/7 Security",
+        "Spacious Living Areas",
+        "Move-in Ready"
+      ],
+      "full_address": "Al Rayyan"
+    },
+    {
+      "id": "p3",
+      "name": "Industrial Park Unit 7",
+      "type": "Commercial Unit",
+      "location": "Industrial Area",
+      "price": "18,500",
+      "size": "1200",
+      "rooms": "Open Plan",
+      "parking": "8",
+      "status": "Vacant",
+      "visible": true,
+      "featured": true,
+      "description": "Large commercial unit for light industrial use.",
+      "image": "",
+      "features": [
+        "Street-Facing Frontage",
+        "High Footfall Location",
+        "Central Air Conditioning",
+        "Loading Access",
+        "24/7 Security",
+        "Flexible Layout"
+      ],
+      "full_address": "Industrial Area"
+    },
+    {
+      "id": "p4",
+      "name": "Pearl Business Hub",
+      "type": "Office Space",
+      "location": "The Pearl, Doha",
+      "price": "16,000",
+      "size": "280",
+      "rooms": "4 Offices",
+      "parking": "2",
+      "status": "Vacant",
+      "visible": true,
+      "featured": false,
+      "description": "Modern office suite with marina views.",
+      "image": "",
+      "features": [
+        "High-Speed Fibre Internet",
+        "Reception & Waiting Area",
+        "Central Air Conditioning",
+        "24/7 Security & Access",
+        "Reserved Parking",
+        "Move-in Ready"
+      ],
+      "full_address": "The Pearl, Doha"
+    },
+    {
+      "id": "p5",
+      "name": "Lusail Waterfront Villa",
+      "type": "Accommodation Villa",
+      "location": "Lusail City",
+      "price": "52,000",
+      "size": "920",
+      "rooms": "6 Bedrooms",
+      "parking": "3",
+      "status": "Vacant",
+      "visible": true,
+      "featured": false,
+      "description": "Luxury villa with private pool.",
+      "image": "",
+      "features": [
+        "Private Garden",
+        "Covered Parking",
+        "Central Air Conditioning",
+        "24/7 Security",
+        "Spacious Living Areas",
+        "Move-in Ready"
+      ],
+      "full_address": "Lusail City"
+    },
+    {
+      "id": "p6",
+      "name": "Msheireb Retail Corner",
+      "type": "Commercial Unit",
+      "location": "Msheireb, Doha",
+      "price": "12,500",
+      "size": "160",
+      "rooms": "Ground Retail",
+      "parking": "2",
+      "status": "Rented",
+      "visible": true,
+      "featured": false,
+      "description": "Prime ground-floor retail space.",
+      "image": "",
+      "features": [
+        "Street-Facing Frontage",
+        "High Footfall Location",
+        "Central Air Conditioning",
+        "Loading Access",
+        "24/7 Security",
+        "Flexible Layout"
+      ],
+      "full_address": "Msheireb, Doha"
+    }
+  ]
+}
