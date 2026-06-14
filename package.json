@@ -1,0 +1,15 @@
+{
+  "name": "althujoori-website",
+  "version": "1.0.0",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "dependencies": {
+    "express": "^4.18.2",
+    "jsdom": "^29.1.1"
+  },
+  "engines": {
+    "node": ">=16.0.0"
+  }
+}
