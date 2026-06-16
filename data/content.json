@@ -1,0 +1,218 @@
+{
+  "contact": {
+    "phone": "+974 XXXX XXXX",
+    "email": "info@althujoori.com",
+    "whatsapp": "97400000000",
+    "address": "Souq Al Sulaiman, Abu Hamour, Doha, Qatar, PO Box 15808",
+    "hours": [],
+    "faq": []
+  },
+  "homepage": {
+    "stat1_num": "143",
+    "stat1_lbl": "Properties",
+    "stat2_num": "13+",
+    "stat2_lbl": "Years Active",
+    "stat3_num": "400+",
+    "stat3_lbl": "Happy Clients",
+    "hero_subtext": "Althujoori offers a curated portfolio of premium commercial spaces, office suites, and private villas — crafted to meet every professional and residential aspiration.",
+    "cta_heading": "Ready to Find Your Perfect Space?",
+    "cta_subtext": "Browse our full portfolio or speak directly with our leasing team for a personalised tour."
+  },
+  "about": {
+    "chairman_name": "Test Name",
+    "chairman_message": [
+      "When I founded Althujoori Real Estate and Trading Co. in 2009, I had a singular vision: to create a company that would not merely facilitate transactions, but build lasting relationships — with our tenants, our community, and the nation we are proud to call home.",
+      "Over 13 years, we have grown from a small office in Doha to a portfolio spanning over 120 properties across the country. Through every phase of Qatar's extraordinary development — from the National Vision 2030 to the landmark achievements our nation has delivered on the world stage — Althujoori has been a steadfast part of that journey.",
+      "Our success is not measured in numbers alone. It is measured in the businesses that launched from our commercial spaces, the families that built their lives in our villas, and the long-term relationships we have cultivated over years of honest and transparent service. We are honoured by the trust our clients place in us, and we take that responsibility seriously every single day.",
+      "Looking ahead, we remain committed to expanding our portfolio with the same standard of quality and integrity that has defined us since day one. Whether you are a growing business seeking your ideal headquarters, or a family looking for a place to call home, Althujoori is here — not just as a landlord, but as a partner in your journey.",
+      "On behalf of our entire team, I welcome you to Althujoori, and I look forward to serving you."
+    ],
+    "chairman_quote": "Quote",
+    "timeline": [
+      {
+        "year": "2009",
+        "title": "Company Founded",
+        "desc": "Althujoori Real Estate & Trading Co. was established in Doha with a focus on commercial leasing and a commitment to transparency."
+      },
+      {
+        "year": "2012",
+        "title": "Residential Expansion",
+        "desc": "Expanded into villa and residential accommodation leasing across Al Rayyan and West Bay, growing the portfolio to 30+ properties."
+      },
+      {
+        "year": "2016",
+        "title": "Industrial & Warehouse Division",
+        "desc": "Launched dedicated warehouse and industrial space offerings, serving Qatar's growing logistics and manufacturing sectors."
+      },
+      {
+        "year": "2020",
+        "title": "100 Properties Milestone",
+        "desc": "Reached 100 properties under management across 7 districts in Qatar — a testament to the trust placed in us by our clients and partners."
+      },
+      {
+        "year": "2024",
+        "title": "Digital Transformation",
+        "desc": "Launched a full digital platform to better serve clients with real-time property listings, online inquiries, and streamlined tenancy management."
+      }
+    ],
+    "stat1_num": "13+",
+    "stat1_lbl": "Years in Qatar",
+    "stat2_num": "143",
+    "stat2_lbl": "Properties Managed",
+    "stat3_num": "400+",
+    "stat3_lbl": "Satisfied Clients"
+  },
+  "settings": {
+    "company_name": "Al Thujoori Real Estate & Trading Co.",
+    "footer_desc": "NEW footer",
+    "tagline": "NEW tagline",
+    "facebook": "https://fb.com/test",
+    "copyright": "© 2026 Al Thujoori Real Estate & Trading Co. All rights reserved."
+  },
+  "properties": [
+    {
+      "id": "p1",
+      "name": "Al Muthanna Complex",
+      "type": "Office Space",
+      "location": "West Bay, Doha",
+      "price": "40,000",
+      "size": "450",
+      "rooms": "6 Offices",
+      "parking": "4",
+      "status": "Vacant",
+      "visible": true,
+      "featured": true,
+      "description": "Premium office in West Bay with panoramic views.",
+      "image": "",
+      "features": [
+        "High-Speed Fibre Internet",
+        "Reception & Waiting Area",
+        "Central Air Conditioning",
+        "24/7 Security & Access",
+        "Reserved Parking",
+        "Move-in Ready"
+      ],
+      "full_address": "Tower C, West Bay Business District, Doha, Qatar"
+    },
+    {
+      "id": "p2",
+      "name": "Al Rayyan Garden Villa",
+      "type": "Accommodation Villa",
+      "location": "Al Rayyan",
+      "price": "35,000",
+      "size": "680",
+      "rooms": "5 Bedrooms",
+      "parking": "2",
+      "status": "Vacant",
+      "visible": true,
+      "featured": true,
+      "description": "Spacious garden villa with private garden.",
+      "image": "",
+      "features": [
+        "Private Garden",
+        "Covered Parking",
+        "Central Air Conditioning",
+        "24/7 Security",
+        "Spacious Living Areas",
+        "Move-in Ready"
+      ],
+      "full_address": "Al Rayyan"
+    },
+    {
+      "id": "p3",
+      "name": "Industrial Park Unit 7",
+      "type": "Commercial Unit",
+      "location": "Industrial Area",
+      "price": "18,500",
+      "size": "1200",
+      "rooms": "Open Plan",
+      "parking": "8",
+      "status": "Vacant",
+      "visible": true,
+      "featured": true,
+      "description": "Large commercial unit for light industrial use.",
+      "image": "",
+      "features": [
+        "Street-Facing Frontage",
+        "High Footfall Location",
+        "Central Air Conditioning",
+        "Loading Access",
+        "24/7 Security",
+        "Flexible Layout"
+      ],
+      "full_address": "Industrial Area"
+    },
+    {
+      "id": "p4",
+      "name": "Pearl Business Hub",
+      "type": "Office Space",
+      "location": "The Pearl, Doha",
+      "price": "16,000",
+      "size": "280",
+      "rooms": "4 Offices",
+      "parking": "2",
+      "status": "Vacant",
+      "visible": true,
+      "featured": false,
+      "description": "Modern office suite with marina views.",
+      "image": "",
+      "features": [
+        "High-Speed Fibre Internet",
+        "Reception & Waiting Area",
+        "Central Air Conditioning",
+        "24/7 Security & Access",
+        "Reserved Parking",
+        "Move-in Ready"
+      ],
+      "full_address": "The Pearl, Doha"
+    },
+    {
+      "id": "p5",
+      "name": "Lusail Waterfront Villa",
+      "type": "Accommodation Villa",
+      "location": "Lusail City",
+      "price": "52,000",
+      "size": "920",
+      "rooms": "6 Bedrooms",
+      "parking": "3",
+      "status": "Vacant",
+      "visible": true,
+      "featured": false,
+      "description": "Luxury villa with private pool.",
+      "image": "",
+      "features": [
+        "Private Garden",
+        "Covered Parking",
+        "Central Air Conditioning",
+        "24/7 Security",
+        "Spacious Living Areas",
+        "Move-in Ready"
+      ],
+      "full_address": "Lusail City"
+    },
+    {
+      "id": "p6",
+      "name": "Msheireb Retail Corner",
+      "type": "Commercial Unit",
+      "location": "Msheireb, Doha",
+      "price": "12,500",
+      "size": "160",
+      "rooms": "Ground Retail",
+      "parking": "2",
+      "status": "Rented",
+      "visible": true,
+      "featured": false,
+      "description": "Prime ground-floor retail space.",
+      "image": "",
+      "features": [
+        "Street-Facing Frontage",
+        "High Footfall Location",
+        "Central Air Conditioning",
+        "Loading Access",
+        "24/7 Security",
+        "Flexible Layout"
+      ],
+      "full_address": "Msheireb, Doha"
+    }
+  ]
+}
